@@ -1,5 +1,7 @@
 # Ultimate AI Agent
 
+![Animation](https://github.com/user-attachments/assets/140d538c-ffb3-415e-8d1f-0e98a0028701)
+
 A minimal yet extensible agent framework that demonstrates iterative reasoning using OpenAI's chat models. The project has been split into a small package for easier extension.
 **Note:** This project is intended to run on Windows systems only because the shell tool relies on PowerShell.
 
