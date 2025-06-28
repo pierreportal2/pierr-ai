@@ -1,0 +1,7 @@
+openai
+python-dotenv
+rich
+tiktoken
+duckduckgo_search
+beautifulsoup4
+requests
