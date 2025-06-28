@@ -27,7 +27,7 @@ class Tool:
 # ---------------------------------------------------------------------------
 
 def shell_tool(command: str) -> str:
-    """Execute *read-only* shell commands and capture output."""
+    """Execute *read-only* shell commands with PowerShell (Windows only) and capture output."""
     try:
         completed = subprocess.run(
             ["powershell", "-Command", command],
